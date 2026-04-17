@@ -1,4 +1,4 @@
-# 🌐 Animated Portfolio Website
+# 🌐 Portfolio Website
 
 A modern, responsive **developer portfolio** built using **Next.js**, featuring smooth animations, clean UI, and a fully responsive design.
 
