@@ -9,15 +9,16 @@ const projects = [
     description:
       "Built 10+ secure RESTful APIs for authentication, appointment management, and role-based access using the MERN stack. Developed a modular service-oriented backend with centralized validation and error handling, and designed optimized MongoDB schemas for efficient querying.",
     tech: ["MongoDB", "Express.js", "React", "Node.js"],
-    github: "#",
+    github: "https://github.com/Reetika-786/MediSphere",
   },
   {
     title: "Smart Clinic System",
     description:
       "Developed a Clinic Management System using Java and Maven with 6+ features including patient registration, appointment scheduling, and doctor management. Applied OOP and modular architecture for better scalability and maintainability.",
     tech: ["Java", "Maven", "OOP", "Git"],
-    github: "#",
+    github: "https://github.com/pranjali2605/smartClinicSystem_Maven",
   },
+  
 ]
 
 export function Projects() {

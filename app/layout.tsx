@@ -7,9 +7,9 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Richa | Full Stack Developer',
+  title: 'Richa',
   description: 'Computer Science undergraduate with hands-on experience in backend development and full-stack engineering (MERN & Java)',
-  generator: 'v0.app',
+  // generator: 'v0.app',
   icons: {
     icon: [
       {
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
       },
       {
         url: '/icon.svg',
-        type: 'image/svg+xml',
+        type: 'image/svg',
       },
     ],
     apple: '/apple-icon.png',

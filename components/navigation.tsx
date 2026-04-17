@@ -46,7 +46,7 @@ export function Navigation() {
       <div className="max-w-7xl mx-auto px-6 md:px-12 lg:px-24 py-4">
         <div className="flex items-center justify-between">
           <a href="#" className="text-xl font-bold text-foreground hover:text-primary transition-colors">
-            R.
+            My Profile 
           </a>
 
           <ul className="hidden md:flex items-center gap-8">

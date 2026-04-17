@@ -49,7 +49,7 @@ export function Contact() {
         </p>
 
         <a
-          href="mailto:richa@example.com"
+          href="mailto:richa1268.be23@chitkara.edu.in"
           className={`inline-flex items-center gap-2 px-8 py-4 bg-primary text-primary-foreground font-medium rounded-lg hover:bg-primary/90 transition-all duration-300 hover:scale-105 ${
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"
           }`}
@@ -65,21 +65,21 @@ export function Contact() {
           }`}
         >
           <a
-            href="#"
+            href="https://github.com/richatechiie"
             className="text-muted-foreground hover:text-primary transition-colors duration-300"
             aria-label="GitHub"
           >
             <Github className="w-6 h-6" />
           </a>
           <a
-            href="#"
+            href="https://www.linkedin.com/in/richa-kakkar-2012182aa/"
             className="text-muted-foreground hover:text-primary transition-colors duration-300"
             aria-label="LinkedIn"
           >
             <Linkedin className="w-6 h-6" />
           </a>
           <a
-            href="mailto:richa@example.com"
+            href="mailto:richa1268.be23@chitkara.edu.in"
             className="text-muted-foreground hover:text-primary transition-colors duration-300"
             aria-label="Email"
           >
