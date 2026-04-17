@@ -1,4 +1,4 @@
-# 🌐 Animated Portfolio Website
+# 🌐 Portfolio Website
 
 A modern, responsive **developer portfolio** built using **Next.js**, featuring smooth animations, clean UI, and a fully responsive design.
 
@@ -6,8 +6,7 @@ A modern, responsive **developer portfolio** built using **Next.js**, featuring 
 
 ## 🚀 Live Demo
 
-👉 (Add your Vercel link here after deployment)
-Example: https://your-portfolio.vercel.app
+Example: https://my-portfolio-blush-seven-45.vercel.app/
 
 ---
 
@@ -49,7 +48,7 @@ Example: https://your-portfolio.vercel.app
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/portfolio.git
+git clone https://github.com/richatechiie/my-portfolio.git
 cd portfolio
 ```
 
@@ -73,12 +72,6 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots of your portfolio here)
-
----
-
 ## 🌍 Deployment
 
 This project can be easily deployed using **Vercel**:
@@ -89,21 +82,12 @@ This project can be easily deployed using **Vercel**:
 
 ---
 
-## 📌 Future Improvements
-
-* Add blog section
-* Integrate contact form (Email API)
-* Add project filtering
-* Improve animations
-
----
-
 ## 👩‍💻 Author
 
 **Richa**
 
-* GitHub: https://github.com/richatechiie
-* Portfolio: (Add your live link)
+* GitHub: https://github.com/richatechiie/my-portfolio
+* Portfolio: https://my-portfolio-blush-seven-45.vercel.app/
 
 ---
 
